@@ -1,0 +1,20 @@
+Backpack Drone Measurements:
+
+The Wingspan is 30 inches.
+The Root Chord is 6 inches.
+The Wingspan to Root Chord Ratio is 5.
+The Wing Thickness is 0.72 inches.
+The Aileron Surface Area is 10.5 inches squared.
+The Fuselage Length is 21.0 inches.
+The distance from the Leading Edge to the Back of the Prop is 4.5 inches.
+The distance from the Leading Edge to the stabilizer is 18 inches.
+The Horizontal Stabilizer is 52.5 inches squared.
+The Elevator is 13.125 inches squared
+The Vertical Stabilizer is 21.0 inches squared.
+The Rudder is 5.25 inches squared.
+The CG is approximately 1.5 inches from the leading edge.
+The EDF size is 64 mm.
+The EDF Thrust Tube is 10.0864 inches.
+The EDF Thrust Tube Exit Diameter is 2.39552 inches.
+
+All measurements were calculated in "Project Plane Maker".
